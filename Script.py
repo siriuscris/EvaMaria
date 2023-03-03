@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
+    START_TXT = """Yo...Yo...Sirrr {} 💖
 I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, 
@@ -8,10 +8,10 @@ Thats All, i will Provide Movies There...🤓🤪
 
 ⚠️More Help Check Help Button Below
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @MGM_Movies
 
-©️ Maintained By @GuruBhai11"""
-    HELP_TXT = """
+©️ Maintained By @Chriz1998
+    HELP_TXT = 0
     🙋🏻‍♂️   Hellooo  {} 🤓
 
 ○  Tutorial video is here @sources_cods
@@ -34,9 +34,9 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @MGM_Movies
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @Chriz1998
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
